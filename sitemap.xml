@@ -606,4 +606,34 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://blog.nrb-apgujeong-guide.xyz/posts/gemini-coverage-20260727-0189.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-apgujeong-guide.xyz/posts/gemini-coverage-20260727-0202.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-apgujeong-guide.xyz/posts/gemini-coverage-20260727-0203.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-apgujeong-guide.xyz/posts/gemini-coverage-20260727-0204.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.nrb-apgujeong-guide.xyz/posts/gemini-coverage-20260727-0220.html</loc>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
