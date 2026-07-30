@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog.nrb-apgujeong-guide.xyz/sitemap.xml
-Sitemap: https://blog.nrb-apgujeong-guide.xyz/sitemap-pages.xml
+Sitemap: https://yeonnam-hyperpublic-note.shirtslab-mapo-pro.xyz/sitemap.xml
+Sitemap: https://yeonnam-hyperpublic-note.shirtslab-mapo-pro.xyz/sitemap-pages.xml
